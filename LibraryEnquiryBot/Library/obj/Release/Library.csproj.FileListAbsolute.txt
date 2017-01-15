@@ -1,0 +1,5 @@
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\Library\bin\Release\Library.dll
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\Library\bin\Release\Library.pdb
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\Library\obj\Release\Library.csprojResolveAssemblyReference.cache
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\Library\obj\Release\Library.dll
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\Library\obj\Release\Library.pdb

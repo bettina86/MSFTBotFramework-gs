@@ -1,0 +1,41 @@
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\Bot Application1.dll.config
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\Bot Application1.dll
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\Bot Application1.pdb
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\Autofac.dll
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\Chronic.dll
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\Microsoft.Bot.Builder.dll
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\Microsoft.Bot.Connector.dll
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\Newtonsoft.Json.dll
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\System.Net.Http.Formatting.dll
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\System.Web.Http.dll
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\System.Web.Http.WebHost.dll
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\Autofac.xml
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\Microsoft.Bot.Builder.xml
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\Microsoft.Bot.Connector.xml
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\Microsoft.Rest.ClientRuntime.xml
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\Newtonsoft.Json.xml
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\System.Net.Http.Formatting.xml
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\System.Web.Http.xml
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\System.Web.Http.WebHost.xml
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\obj\Debug\LibraryEnquiryBot.csprojResolveAssemblyReference.cache
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\obj\Debug\Bot Application1.dll
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\obj\Debug\Bot Application1.pdb
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\Library.dll
+c:\users\rachhek\documents\visual studio 2015\Projects\LibraryEnquiryBot\LibraryEnquiryBot\bin\Library.pdb
